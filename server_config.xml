@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<!-- 服务端开启的服务端口 -->
+	<serverport>8088</serverport>
+	
+	<!-- 线程池的线程数量 -->
+	<threadcount>30</threadcount>
+	
+	<!--  保存所有配对日志的文件的文件名 -->
+	<serverlogfile>server_log.txt</serverlogfile>
+</config>
